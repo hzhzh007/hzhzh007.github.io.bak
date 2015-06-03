@@ -7,7 +7,7 @@ author:
   name: zzh
   email: hzhzh007@gmail.com
   link: 
-  weibo: http://weibo.com/orangeissweet
+  weibo: http://weibo.com/u/2247359222
   github: http://github.com/hzhzh007
   music: 
   linkedin: 
@@ -24,15 +24,15 @@ favicon: /public/img/deer3.png
 
 # google analytics 设置
 ga:
-  id: UA-54262064-1 
-  url: painterlin.com
+  id: UA-63703942-1
+  url: hzhzh007.github.io
 
 # disqus 设置
 disqus:
-  shortname: painterlin
+  shortname: hzhzh007
 
 # 主题设置，自动激活某个标签
-active: 读书
+active: Go
 
 # 首页除了最新文章外显示分类
 cates: 
