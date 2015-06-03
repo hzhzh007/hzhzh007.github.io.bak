@@ -1,9 +1,11 @@
 ---
 layout: post
-title: 初始化
-category: 生活
+title: 离职感言
+category: 随感
 tags: 离职前夕
-keywords:
-description:
+keywords: 离职
+description: 一些人，一些事
 ---
-今天周三，后天就走
+今天周三，后天就走, 有着点默默的惆怅
+也许是在百度的生活习惯了，也许是温水煮青蛙--麻木了，在这的一切都习以为常，习惯了十点到，习惯了中文行军床上睡，习惯了看看报警平台，习惯了晚上去十分钟，习惯了十点后走。。。。
+
